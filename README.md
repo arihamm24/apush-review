@@ -6,4 +6,4 @@
   <li>Ari Hammond (owner and creator)</li>
 </ul>
 <h3>This site updated as needed, and as of now, is reliable for the <em>May 2023</em> exam.</h3>
-The site is housed on GitHub Pages. Click <a>here</a> to access it. 
+The site is housed on GitHub Pages. Click <a href="arihamm24.github.io/apush-review">here</a> to access it. 
