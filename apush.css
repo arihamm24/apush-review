@@ -1,7 +1,7 @@
 *{
-    --bckgrnd:#C6DEC6;
-    --txt: #272D2D;
-    --accent:#AC3931;
+    --bckgrnd:#BFD7EA;
+    --txt: #0B3954;
+    --accent:#C81D25;
 
 }
 @media (prefers-reduced-motion: no-preference) {
@@ -12,7 +12,7 @@
 body{
     background-color:var(--bckgrnd);
     color:var(--txt);
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 header{
     display: flex;
@@ -68,7 +68,7 @@ header{
     justify-content: center;
     text-align: center;
  }
- #essays{
+ #essays, #vids, #vocab, #tmln{
   margin: auto;
   width: 75%;
   text-align:center;
@@ -76,4 +76,13 @@ header{
  #examples{
   display:inline-block;
   margin: 20px;
+ }
+ #tlabel > td{
+  background-color: var(--txt);
+  color: var(--bckgrnd);
+  border: solid 5px var(--txt);
+ }
+ table{
+  margin:auto;
+  width: 90%;
  }
