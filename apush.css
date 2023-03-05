@@ -69,7 +69,7 @@ header{
     justify-content: center;
     text-align: center;
  }
- #essays, #vids, #vocab, #tmln{
+ #essays, #vids, #vocab, #tmln, #teachers{
   margin: auto;
   width: 75%;
   text-align:center;
