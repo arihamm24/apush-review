@@ -60,6 +60,11 @@ header{
   display:flex;
   justify-content: center;
  }
+ #logo{
+  width:500px;
+  height:200px;
+  object-fit:cover;
+ }
  #home{
   text-align:center;
  }
@@ -69,7 +74,7 @@ header{
     justify-content: center;
     text-align: center;
  }
- #essays, #vids, #vocab, #tmln, #teachers{
+ #essays, #vids, #vocab, #tmln, #teachers, #extra{
   margin: auto;
   width: 75%;
   text-align:center;
