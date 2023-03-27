@@ -15,6 +15,9 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
+p{
+  text-align: center;
+}
 header{
     display: flex;
     justify-content: space-between;
@@ -93,5 +96,17 @@ header{
   width: 90%;
  }
 #descr{
-  font-size: .75rem
+  font-size: .9rem
+}
+.war{
+  background-color: var(--accent);
+  color: var(--bckgrnd);
+}
+.pres{
+  background-color: rgb(211, 198, 12);
+}
+span{
+  display: inline-block;
+  margin-left: 10px;
+  margin-right:10px;
 }
