@@ -115,6 +115,9 @@ td{
   border: solid 1px var(--txt);
   padding: 2.5px;
 }
+#war{
+ border: solid 2px var(--accent);
+}
 .yr, .connections{
   font-weight: bold;
 }
