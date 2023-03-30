@@ -95,7 +95,6 @@ header{
  table{
   margin:auto;
   width: 90%;
-  border: solid 1px var(--txt);
  }
 #descr{
   font-size: .9rem;
@@ -111,6 +110,10 @@ span{
   display: inline-block;
   margin-left: 10px;
   margin-right:10px;
+}
+td{
+  border: solid 1px var(--txt);
+  padding: 2.5px;
 }
 .yr{
   font-weight: bold;
