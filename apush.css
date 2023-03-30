@@ -95,9 +95,10 @@ header{
  table{
   margin:auto;
   width: 90%;
+  border: solid 1px var(--txt);
  }
 #descr{
-  font-size: .9rem
+  font-size: .9rem;
 }
 .war{
   background-color: var(--accent);
