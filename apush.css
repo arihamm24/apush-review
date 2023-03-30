@@ -111,3 +111,9 @@ span{
   margin-left: 10px;
   margin-right:10px;
 }
+td{
+  border:solid 5px var(--txt);
+}
+.yr{
+  font-weight: bold;
+}
