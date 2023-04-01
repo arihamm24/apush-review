@@ -2,6 +2,7 @@
     --bckgrnd:#BFD7EA;
     --txt: #0B3954;
     --accent:#C81D25;
+    --lite: rgb(211, 198, 12);
 
 }
 @media (prefers-reduced-motion: no-preference) {
@@ -116,9 +117,12 @@ td{
   padding: 2.5px;
 }
 #war > td{
- border: solid 1.5px var(--accent);
+ border: solid 2px var(--accent);
  color: var(--accent);
 }
+#election > td{
+  background-color: var(--lite);
+ }
 .yr, .connections{
   font-weight: bold;
 }
