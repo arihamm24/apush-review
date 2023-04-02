@@ -101,8 +101,7 @@ header{
   font-size: .9rem;
 }
 .war{
-  background-color: var(--accent);
-  color: var(--bckgrnd);
+  color: var(--accent);
 }
 .pres{
   background-color: rgb(211, 198, 12);
@@ -114,7 +113,7 @@ span{
 }
 td{
   border: solid 1px var(--txt);
-  padding: 2.5px;
+  padding: 3px;
 }
 #war > td{
  border: solid 2px var(--accent);
