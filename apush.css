@@ -91,7 +91,7 @@ header{
  #tlabel > td{
   background-color: var(--txt);
   color: var(--bckgrnd);
-  border: solid 5px var(--txt);
+  border: solid 4px var(--txt);
  }
  table{
   margin:auto;
