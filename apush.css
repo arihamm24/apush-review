@@ -91,7 +91,7 @@ header{
  #tlabel > td{
   background-color: var(--txt);
   color: var(--bckgrnd);
-  border: solid 4px var(--txt);
+  border: solid 3px var(--txt);
  }
  table{
   margin:auto;
@@ -124,4 +124,13 @@ td{
  }
 .yr, .connections{
   font-weight: bold;
+}
+td.yr, td.fig, td.vocab{
+  width: 100px;
+}
+td.event{
+  width: 225px;
+}
+td.connections{
+  width: 350px;
 }
