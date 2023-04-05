@@ -1,7 +1,7 @@
 *{
     --bckgrnd:#BFD7EA;
-    --txt: #0B3954;
-    --accent:#C81D25;
+    --txt: #1d3557;
+    --accent:#e63946;
     --lite: rgb(211, 198, 12);
 
 }
@@ -104,7 +104,7 @@ header{
   color: var(--accent);
 }
 .pres{
-  background-color: rgb(211, 198, 12);
+  background-color: var(--lite);
 }
 span{
   display: inline-block;
