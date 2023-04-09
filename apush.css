@@ -14,7 +14,7 @@ body{
     background-color:var(--bckgrnd);
     color:var(--txt);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
+    margin-left:0;
 }
 p{
   text-align: center;
@@ -45,6 +45,7 @@ header{
     background-color:var(--bckgrnd);
   }
  a{
+    font-weight: bold;
     color:var(--accent);
  }
  a:hover{
